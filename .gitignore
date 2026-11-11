@@ -1,0 +1,8 @@
+.out/
+.build/
+.lake/
+*.olean
+*.ilean
+*.c
+logs/
+Audit.lean
