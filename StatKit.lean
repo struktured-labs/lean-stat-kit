@@ -5,3 +5,4 @@ import StatKit.Gaussian
 import StatKit.DistFree
 import StatKit.Split
 import StatKit.Bridge
+import StatKit.Permutation
